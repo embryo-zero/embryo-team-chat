@@ -36,7 +36,7 @@
 		"@rocket.chat/ui-client": "workspace:^",
 		"@rocket.chat/ui-contexts": "workspace:^",
 		"@storybook/react": "~10.6.5",
-		"@tanstack/react-query": "~5.65.1",
+		"@tanstack/react-query": "~5.107.1",
 		"@testing-library/react": "~16.3.3",
 		"@types/jest": "~30.0.0",
 		"@types/react": "~19.2.18",
@@ -56,7 +56,7 @@
 		"@rocket.chat/layout": "*",
 		"@rocket.chat/ui-client": "workspace:^",
 		"@rocket.chat/ui-contexts": "workspace:^",
-		"@tanstack/react-query": "~5.65.1",
+		"@tanstack/react-query": "~5.107.1",
 		"react": "*",
 		"react-i18next": "*"
 	},

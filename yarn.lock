@@ -9245,7 +9245,7 @@ __metadata:
     "@rocket.chat/ui-video-conf": "workspace:^"
     "@storybook/react": "npm:~10.6.5"
     "@storybook/react-webpack5": "npm:~10.6.5"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/dom": "npm:~10.4.2"
     "@testing-library/react": "npm:~16.3.3"
     "@testing-library/user-event": "npm:~14.6.7"
@@ -9901,7 +9901,7 @@ __metadata:
     "@storybook/react-webpack5": "npm:~10.6.5"
     "@tamagui/static": "npm:3.0.18"
     "@tamagui/vite-plugin": "npm:3.0.18"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/dom": "npm:~10.4.2"
     "@testing-library/react": "npm:~16.3.3"
     "@testing-library/user-event": "npm:~14.6.7"
@@ -10200,7 +10200,7 @@ __metadata:
     "@rocket.chat/ui-contexts": "workspace:^"
     "@rocket.chat/ui-video-conf": "workspace:*"
     "@storybook/react": "npm:~10.6.5"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/dom": "npm:~10.4.2"
     "@testing-library/jest-dom": "npm:~7.0.1"
     "@testing-library/react": "npm:~16.3.3"
@@ -10852,7 +10852,7 @@ __metadata:
     "@rocket.chat/ui-client": "workspace:^"
     "@rocket.chat/ui-contexts": "workspace:^"
     "@storybook/react": "npm:~10.6.5"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/react": "npm:~16.3.3"
     "@testing-library/user-event": "npm:~14.6.7"
     "@types/jest-axe": "npm:~3.5.9"
@@ -11178,7 +11178,7 @@ __metadata:
     "@rocket.chat/ui-media": "workspace:^"
     "@rocket.chat/ui-video-conf": "workspace:^"
     "@sapphi-red/web-noise-suppressor": "npm:^0.4.0"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/dom": "npm:~10.4.2"
     "@testing-library/react": "npm:~16.3.3"
     "@types/jest": "npm:~30.0.0"
@@ -11221,7 +11221,7 @@ __metadata:
     "@rocket.chat/ui-client": "workspace:^"
     "@rocket.chat/ui-contexts": "workspace:^"
     "@storybook/react": "npm:~10.6.5"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/react": "npm:~16.3.3"
     "@testing-library/user-event": "npm:~14.6.7"
     "@types/jest": "npm:~30.0.0"
@@ -11243,7 +11243,7 @@ __metadata:
     "@rocket.chat/icons": 0.52.0
     "@rocket.chat/ui-client": "workspace:^"
     "@rocket.chat/ui-contexts": "workspace:^"
-    "@tanstack/react-query": ~5.65.1
+    "@tanstack/react-query": ~5.107.1
     react: "*"
     react-i18next: "*"
   languageName: unknown
@@ -11280,7 +11280,7 @@ __metadata:
     "@rocket.chat/ui-client": "workspace:^"
     "@rocket.chat/ui-contexts": "workspace:^"
     "@storybook/react": "npm:~10.6.5"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/dom": "npm:~10.4.2"
     "@testing-library/react": "npm:~16.3.3"
     "@types/react": "npm:~19.2.18"
@@ -11325,7 +11325,7 @@ __metadata:
     "@rocket.chat/ui-client": "workspace:^"
     "@rocket.chat/ui-contexts": "workspace:^"
     "@storybook/react": "npm:~10.6.5"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/react": "npm:~16.3.3"
     "@types/jest": "npm:~30.0.0"
     "@types/react": "npm:~19.2.18"
@@ -11344,7 +11344,7 @@ __metadata:
     "@rocket.chat/layout": "*"
     "@rocket.chat/ui-client": "workspace:^"
     "@rocket.chat/ui-contexts": "workspace:^"
-    "@tanstack/react-query": ~5.65.1
+    "@tanstack/react-query": ~5.107.1
     react: "*"
     react-i18next: "*"
   languageName: unknown
@@ -11368,7 +11368,7 @@ __metadata:
     "@rocket.chat/ui-avatar": "workspace:^"
     "@rocket.chat/ui-contexts": "workspace:^"
     "@storybook/react": "npm:~10.6.5"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@types/jest-axe": "npm:~3.5.9"
     "@types/react": "npm:~19.2.18"
     "@types/react-dom": "npm:~19.2.7"
@@ -11421,7 +11421,7 @@ __metadata:
     "@rocket.chat/ui-media": "workspace:^"
     "@storybook/react": "npm:~10.6.5"
     "@storybook/test-runner": "npm:~0.26.0"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@testing-library/dom": "npm:~10.4.2"
     "@testing-library/react": "npm:~16.3.3"
     "@testing-library/user-event": "npm:~14.6.7"
@@ -11480,7 +11480,7 @@ __metadata:
     "@rocket.chat/tsconfig": "workspace:*"
     "@rocket.chat/ui-avatar": "workspace:^"
     "@rocket.chat/ui-contexts": "workspace:~"
-    "@tanstack/react-query": "npm:~5.65.1"
+    "@tanstack/react-query": "npm:~5.107.1"
     "@types/lodash": "npm:~4.17.25"
     "@types/react": "npm:~19.2.18"
     "@types/react-dom": "npm:~19.2.7"
@@ -13989,21 +13989,25 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tanstack/query-core@npm:5.65.0":
-  version: 5.65.0
-  resolution: "@tanstack/query-core@npm:5.65.0"
-  checksum: 10/ae7f5f732eea1c6f255b30fe7d46adfd472db85b235c958a205ba3db94155b333bedfa23d5fb26cee7ccca3e2e3b6fc7393d34ec2fea369ee725fba799aa9099
+"@tanstack/query-core@npm:5.107.1":
+  version: 5.107.1
+  resolution: "@tanstack/query-core@npm:5.107.1"
+  checksum: 10/a0346fb46f2d2326409d15c7b82e818c2c85770e3624989e9f4a8ca2bd631d31fa051d176c31ef1f98487487313a5d352bf10cab1d123d5ead5461f52748cc4a
   languageName: node
   linkType: hard
 
-"@tanstack/react-query@npm:~5.65.1":
-  version: 5.65.1
-  resolution: "@tanstack/react-query@npm:5.65.1"
+"@tanstack/react-query@npm:~5.107.1":
+  version: 5.107.1
+  resolution: "@tanstack/react-query@npm:5.107.1"
   dependencies:
-    "@tanstack/query-core": "npm:5.65.0"
+    "@tanstack/query-core": "npm:5.107.1"
   peerDependencies:
+    "@types/react": ^18 || ^19
     react: ^18 || ^19
-  checksum: 10/4ce626cd2ff887804db8ec6cd6e29a2a56bcd8375cf6ed35cadb8794f9447efec56d526ad1e76a1b4b412ab7f6c6a5b5e7bf81667482a66c88b706e949812af5
+  peerDependenciesMeta:
+    "@types/react":
+      optional: true
+  checksum: 10/04fc353d85fee5108ea7aec2fad558dc30429c5730ba59b8c22dd4556bafdcf9ae9fd6f22840f2ff378ec969db4d196d066592d2f98fd3eaf24c9067c1f2857f
   languageName: node
   linkType: hard
 
