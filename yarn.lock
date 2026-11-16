@@ -10111,7 +10111,7 @@ __metadata:
     postcss-easy-import: "npm:^4.0.0"
     postcss-lit: "npm:^1.1.1"
     postcss-media-minmax: "npm:^5.0.0"
-    postcss-nested: "npm:^7.0.2"
+    postcss-nested: "npm:^9.0.1"
     postcss-url: "npm:^10.1.4"
     postis: "npm:^2.2.0"
     prom-client: "npm:^14.2.0"
@@ -30669,14 +30669,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss-nested@npm:^7.0.2":
-  version: 7.0.2
-  resolution: "postcss-nested@npm:7.0.2"
+"postcss-nested@npm:^9.0.1":
+  version: 9.0.1
+  resolution: "postcss-nested@npm:9.0.1"
   dependencies:
-    postcss-selector-parser: "npm:^7.0.0"
+    postcss-selector-parser: "npm:^7.1.7"
   peerDependencies:
     postcss: ^8.2.14
-  checksum: 10/adcb74bb94869f7313f2677bcdf5dd9e368602ca6d3e1c1e3da514ee00ccf5c2bdd414fdb9141de65b0b7aee83d8f2b149c0d3723bc4af5ee8b8062dc6e09c3d
+  checksum: 10/1fb4f7706819d1c675b44f01dea02be62a1f84df3a6f74f743144f3086ae41c8c0afeef3f6263e3e8546dffe820d63a87851021d04170d35a72cbaa3cb7bcff1
   languageName: node
   linkType: hard
 
@@ -31004,6 +31004,15 @@ __metadata:
     cssesc: "npm:^3.0.0"
     util-deprecate: "npm:^1.0.2"
   checksum: 10/9413749ad38d8e22e4a5e47287e5501493238ab73eea276381476933332604df49468451e99a3d6614463fd3ee96655a80821a93949cfe425ecd6acf210535b0
+  languageName: node
+  linkType: hard
+
+"postcss-selector-parser@npm:^7.1.7":
+  version: 7.2.1
+  resolution: "postcss-selector-parser@npm:7.2.1"
+  dependencies:
+    util-deprecate: "npm:^1.0.2"
+  checksum: 10/65a2f9d4c9189cab6ad14e973e801e54ae9b7a5ae8ff9744cea3a08d83ded0a9d07a85c452d0020a13b5345cba20223b3048fd4a593acea17b0a04edc3213e7d
   languageName: node
   linkType: hard
 
